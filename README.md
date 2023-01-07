@@ -3,6 +3,8 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/decency/nova-input-group.svg?style=flat-square)](https://packagist.org/packages/eom-plus/nova-input-group)
 A Laravel Nova4 text field formatted as input group
 
+![image](https://user-images.githubusercontent.com/188766/211157697-83991d68-f727-4bdb-aa2d-4c5e784007cb.png)
+
 This custom field allow to append or prepend text and/or heroicon icon. Text can also be HTML. 
 For HTML, a dedicated component is used intead of *v-html* directive. HTML markup is sanitazed using 
 HTML is previously sanitized using DOMPurify library to avoid vulnaribility. Note, as HMTL is rendered you can use Emojis icons too
