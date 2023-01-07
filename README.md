@@ -70,11 +70,11 @@ public function fields(Request $request)
 
 
 * `prepend(value)` Prepend text to input field
-* `prependIcon(name, position)` Prepend heroicon to input field
+* `prependIcon(name, position)` Prepend heroicon to input field. You can choose between 'before' and 'after'. When not used, 'before' is used.
 * `prependExtraClasses(value)` Prepend extra css classes to input field to change background or text color for example.
 
 * `append(value)` Append text to input field
-* `appendIcon(name, position)` Append heroicon to input field
+* `appendIcon(name, position)` Append heroicon to input field. You can choose between 'before' and 'after'. When not used, 'before' is used.
 * `appendExtraClasses(value)` Append extra css classes to input field to change background or text color for example.
 
 * `asHtml()` render value as HTML
