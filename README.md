@@ -18,8 +18,7 @@ composer require operativeit/nova-input-group
 ## Usage
 
 Import it in your resources and add the InputGroup to `fields` method.
-We have added various methods to add flexibility to the component. 
-
+We have added various methods to add flexibility to the component. You can append , prepend or both at the same time.
 
 ```php
 ...
@@ -95,6 +94,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 * Testcases 
 * PS4 code compliance
 * More examples
+* Fix field length
+* Add buttons and dropdown support
 
 ### Security and contributions.
 
