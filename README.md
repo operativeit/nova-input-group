@@ -1,6 +1,6 @@
 # Nova Input Group
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/decency/nova-input-group.svg?style=flat-square)](https://packagist.org/packages/decency/nova-input-group)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/decency/nova-input-group.svg?style=flat-square)](https://packagist.org/packages/eom-plus/nova-input-group)
 A Laravel Nova4 text field formatted as input group
 
 This custom field allow to append or prepend text and/or heroicon icon. Text can also be HTML. 
