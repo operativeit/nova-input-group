@@ -16,7 +16,7 @@ For HTML, a dedicated component is used intead of *v-html* directive. HTML marku
 ## Installation
 
 ```bash
-composer require operativeit/nova-input-group
+composer require eom-plus/nova-input-group
 ```
 
 ## Usage
