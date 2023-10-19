@@ -6,7 +6,7 @@ A Laravel Nova4 text field formatted as input group
 [![Total Downloads](https://img.shields.io/packagist/dt/operativeit/nova-input-group.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-input-group)
 ![GitHub forks](https://img.shields.io/github/forks/operativeit/nova-input-group)
 ![GitHub issues](https://img.shields.io/github/issues/operativeit/nova-input-group)
-[![License](https://img.shields.io/packagist/l/operativeit/nova-input-group)](https://github.com/operativeit/nova-input-group/blob/master/LICENSE)
+[![License](https://img.shields.io/packagist/l/operativeit/nova-input-group)](https://github.com/operativeit/nova-input-group/blob/master/LICENSE.md)
 
 ![image](https://user-images.githubusercontent.com/188766/211157697-83991d68-f727-4bdb-aa2d-4c5e784007cb.png)
 
