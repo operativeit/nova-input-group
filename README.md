@@ -106,6 +106,19 @@ If you discover any security related issues, please use the issue tracker. All P
 - [Tim Diels](https://github.com/timdiels1)
 - [All Contributors](../../contributors)
 
+## ⭐️ Show Your Support
+
+Please give a ⭐️ if this project helped you!
+
+### Other Packages You Might Like
+
+- [Nova Rating Field](https://github.com/operativeit/nova-rating-field) - A Star rating Nova 4 field to use in your Laravel Nova apps.
+- [Nova Feedback Field](https://github.com/operativeit/nova-feedback-field) - An Emoji feedback Nova 4 field to use in your Laravel Nova apps.
+- [Nova Input Group](https://github.com/operativeit/nova-input-group) - A Laravel Nova 4 text field formatted as input group
+- [Nova Signature](https://github.com/operativeit/nova-signature) - A Laravel Nova 4 signature pad
+ 
+Take a look to our Github repositories as we have a lot of forked nova components with fixes that are still not merge into main owner branch.
+
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://raw.githubusercontent.com/dcasia/nova-welcome-card/master/LICENSE) for more information.
